@@ -1,1 +1,1 @@
-# factorial_java
+Simple factorial program in java.
