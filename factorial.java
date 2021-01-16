@@ -1,6 +1,6 @@
 public class factorial{
     public static void main(String[] args){
-        int a = factorial(10);
+        int a = factorial(5);
         System.out.println(a);
     }
 
